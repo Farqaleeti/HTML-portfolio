@@ -1,5 +1,3 @@
-# HTML-portfolio
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -89,7 +87,9 @@ h1{
   <div class="project-tile"> 
     <h2>Ruby on rails</h2>
     <p>Groveste Ruby developeren ever.</p>
+  <div>
       <a href="https://pure-journey-13452.herokuapp.com/cars?fbclid=IwAR1UrYwzIRRDHL-MrptesFGv9zPgvEZvR8zeC53WBQjHNnEIIUWCyAhuAQ0" target=_blank> Sjekk ut den grove appen jeg lagde. </a> 
+    </div>
     <p>ps hvertall ikke stjålet...</p>
   </div>
 </div>
